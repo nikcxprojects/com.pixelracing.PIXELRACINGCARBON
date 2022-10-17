@@ -43,7 +43,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fc7b82b1248c84e468b83ba7fb3f14a9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ApiKey: 65f9ab03-8390-4a92-b73d-f48f99110f6c
+  ApiKey: 4f29715d-4e2a-49e7-a2ad-34868ee2369f
   ExceptionsReporting: 1
   SessionTimeoutSec: 10
   LocationTracking: 0
@@ -242,7 +242,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d75563883a3847439f74226ac690aa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  url: https://bewtinner.ru/YsShfBqB?id=com.ambulanceracer.game
+  url: https://1xcet.com/fJnMDvWb?id=com.pixelracing.PIXELRACINGCARBON
 --- !u!1 &8704054625503166090
 GameObject:
   m_ObjectHideFlags: 0

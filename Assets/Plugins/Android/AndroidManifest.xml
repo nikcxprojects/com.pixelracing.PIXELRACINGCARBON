@@ -16,9 +16,9 @@
 		  </intent-filter>
 		  <meta-data android:name="unityplayer.UnityActivity" android:value="true" />
 	  </activity>
-	  <meta-data android:name="ymp_firebase_default_app_id" android:value="1:599395298987:android:1e9163e7d3811521de91ee" />
-	  <meta-data android:name="ymp_gcm_default_sender_id" android:value="number:599395298987" />
-	  <meta-data android:name="ymp_firebase_default_api_key" android:value="AIzaSyDvs4dFini8t9waUaMnMIOjiJs9S6oRaHA" />
-	  <meta-data android:name="ymp_firebase_default_project_id" android:value="comambulanceracergame" />
+	  <meta-data android:name="ymp_firebase_default_app_id" android:value="1:270786413988:android:9186fa446698e270f62d31" />
+	  <meta-data android:name="ymp_gcm_default_sender_id" android:value="number:270786413988" />
+	  <meta-data android:name="ymp_firebase_default_api_key" android:value="AIzaSyDMS24Rir9kujEY9nOmLVCz9p0J9RTZ7LI" />
+	  <meta-data android:name="ymp_firebase_default_project_id" android:value="compixelracingpixelracing" />
   </application>
 </manifest>
